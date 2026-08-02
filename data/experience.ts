@@ -19,22 +19,4 @@ export const experience: ExperienceEntry[] = [
     ],
     technologies: ["Next.js", "Node.js", "PostgreSQL", "AWS", "Docker", "LiveKit", "Razorpay"],
   },
-  {
-    company: "Applify",
-    role: "Software Engineer",
-    period: "2026 - Present",
-    location: "Remote - Contractual",
-    responsibilities: [
-      "Designed and maintained REST APIs for business workflows.",
-      "Implemented webhook handlers and asynchronous processing.",
-      "Collaborated with product and infrastructure teams on deployment improvements.",
-      "Helped shape AI-assisted platform capabilities.",
-    ],
-    achievements: [
-      "Built robust event-driven integrations",
-      "Reduced operational friction through better logging and monitoring",
-      "Contributed to multiple production-ready services",
-    ],
-    technologies: ["Express.js", "MongoDB", "Redis", "Docker", "OpenAI API", "GitHub Actions"],
-  },
 ];

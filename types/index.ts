@@ -38,3 +38,12 @@ export interface ExperienceEntry {
   achievements: string[];
   technologies: string[];
 }
+
+export interface ClientEntry {
+  name: string;
+  role: string;
+  period: string;
+  description: string;
+  impact: string[];
+  technologies: string[];
+}

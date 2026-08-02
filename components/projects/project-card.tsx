@@ -23,7 +23,6 @@ export function ProjectCard({ project }: ProjectCardProps) {
       <div className="space-y-5 p-6">
         <div className="flex items-center justify-between gap-3">
           <div>
-            <p className="text-sm text-violet-400">{project.status}</p>
             <h3 className="text-xl font-semibold text-zinc-100">{project.title}</h3>
           </div>
         </div>

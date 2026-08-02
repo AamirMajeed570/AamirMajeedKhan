@@ -18,7 +18,6 @@ export function ProjectDetails({ project }: ProjectDetailsProps) {
         <div className="space-y-6 p-8">
           <div className="flex flex-wrap items-center justify-between gap-4">
             <div>
-              <p className="text-sm text-violet-400">{project.status}</p>
               <h1 className="text-3xl font-semibold text-zinc-100">{project.title}</h1>
             </div>
             <div className="flex flex-wrap gap-3">

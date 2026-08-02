@@ -21,9 +21,9 @@ export const experience: ExperienceEntry[] = [
   },
   {
     company: "Applify",
-    role: "Backend Engineer",
+    role: "Software Engineer",
     period: "2026 - Present",
-    location: "Remote",
+    location: "Remote - Contractual",
     responsibilities: [
       "Designed and maintained REST APIs for business workflows.",
       "Implemented webhook handlers and asynchronous processing.",

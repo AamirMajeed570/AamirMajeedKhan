@@ -1,3 +1,5 @@
+const siteUrl = "https://aamir-majeed-khan.vercel.app";
+
 export const siteConfig = {
   name: "Aamir Majeed Khan",
   title: "Full-Stack and Backend Engineer",
@@ -9,8 +11,9 @@ export const siteConfig = {
   linkedin: "https://www.linkedin.com/in/aamir-majeed-khan-875944214/",
   resume: "/resume/AamirMajeed.pdf",
   availability: "Open to full-time and freelance opportunities",
-  canonical: "https://yourdomain.com",
+  canonical: siteUrl,
   keywords: [
+    "Aamir Majeed Khan",
     "Full-Stack Engineer",
     "Backend Engineer",
     "Next.js",
@@ -21,7 +24,8 @@ export const siteConfig = {
     "WebRTC",
     "PostgreSQL",
     "MongoDB",
-    "Docker"
+    "Docker",
+    "portfolio"
   ],
 };
 

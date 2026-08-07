@@ -2,9 +2,9 @@ import type { ClientEntry } from "@/types";
 
 export const clients: ClientEntry[] = [
   {
-    name: "Applify",
+    name: "Applify BV",
     role: "Freelance Client",
-    period: "2026 - Present",
+    period: "May 2026 - July 2026",
     description:
       "Worked with Applify as a freelance client engagement, contributing to product delivery, workflow improvements, and platform reliability.",
     impact: [

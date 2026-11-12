@@ -8,7 +8,7 @@ export function ExperienceSection() {
         <SectionHeading
           eyebrow="Experience"
           title="A track record of shipping across full-stack, backend, and product delivery"
-          description="Experience is captured in a clear timeline so recruiters and hiring teams can quickly understand the scope of my work."
+          description="A journey through my professional experience, highlighting the projects I've contributed to, technologies I've worked with, and solutions I've helped build."
         />
         <div className="mt-12 space-y-6">
           {experience.map((item, index) => (
